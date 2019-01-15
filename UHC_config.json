@@ -1,10 +1,10 @@
 [
     {
-        "chrome_driver_location": "/Users/jiveteshkaul/Downloads/chromedriver",
-        "state": "connecticut",
-        "mail_receiver_1":"jiveteshk@gmail.com",
-        "mail_receiver_2":"komalm281095@gmail.com",
-        "mail_receiver_3":"",
-        "mail_receiver_4":""
+        "chrome_driver_location": "<chrome_driver_location>",
+        "state": "<state_to_search>",
+        "mail_receiver_1":"mail_rec_1",
+        "mail_receiver_2":"mail_rec_2",
+        "mail_receiver_3":"mail_rec_3",
+        "mail_receiver_4":"mail_rec_4"
     }
 ]

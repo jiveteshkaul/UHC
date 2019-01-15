@@ -43,7 +43,6 @@ def navigate_to_page(state):
     
     WebDriverWait(driver, 5).until(EC.visibility_of_element_located((By.XPATH, '//*[@id="step-6"]/div[2]/div[1]/ul/li[1]/h2/div/guided-search-link/button')))
     driver.find_element_by_xpath('//*[@id="step-6"]/div[2]/div[1]/ul/li[1]/h2/div/guided-search-link/button').click() # click all primary care physi
-    
     return(driver)
 
 
